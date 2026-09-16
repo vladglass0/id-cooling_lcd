@@ -1,0 +1,66 @@
+{
+ "background": {
+  "type": "color",
+  "color": [
+   0,
+   0,
+   0
+  ]
+ },
+ "widgets": [
+  {
+   "id": "w_cpu_lbl",
+   "type": "text",
+   "x": 120,
+   "y": 17,
+   "size": 30,
+   "color": [
+    255,
+    80,
+    64
+   ],
+   "text": "CPU"
+  },
+  {
+   "id": "w_cpu",
+   "type": "cpu_temp",
+   "x": 128,
+   "y": 71,
+   "size": 88,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "text": ""
+  },
+  {
+   "id": "w_gpu",
+   "type": "gpu_temp",
+   "x": 126,
+   "y": 161,
+   "size": 26,
+   "color": [
+    255,
+    80,
+    64
+   ],
+   "text": ""
+  },
+  {
+   "id": "8bb21971",
+   "type": "time",
+   "x": 122,
+   "y": 42,
+   "size": 40,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "text": "",
+   "w": 200,
+   "source": "cpu_temp"
+  }
+ ]
+}

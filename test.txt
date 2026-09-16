@@ -1,0 +1,3 @@
+1. Идеально: Windows + официальный FX LCD Series Software 1.0.4 + USBPcap + Wireshark, действия: показать температуру → залить статичную PNG 240x240 → залить GIF → выкл/вкл. Сохранить .pcapng.
+
+opencode -s ses_f56037891ffeiRT8ijUaFymA0e 

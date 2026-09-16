@@ -1,0 +1,10 @@
+# Proprietary vendor binaries, read-only RE reference (never commit)
+temp/
+# USB captures
+*.pcapng
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Local runtime config
+config.json
